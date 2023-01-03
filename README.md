@@ -40,4 +40,4 @@ To do this, follow the steps below by running the given commands within a Git ba
   You can now view your Streamlit app in your browser.
 
     Local URL: http://localhost:8501
-    Network URL: http://192.168.43.41:8501
+    Network URL: http://192.168.0.118:8501
