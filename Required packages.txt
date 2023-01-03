@@ -1,0 +1,11 @@
+cohere 
+umap-learn 
+altair 
+annoy 
+datasets 
+tqdm
+faiss-cpu
+streamlit
+pandas
+numpy
+
